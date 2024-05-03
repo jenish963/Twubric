@@ -1,0 +1,29 @@
+.mainContainer {
+    border: 2px solid #1976d2;
+    border-radius: 8px;
+}
+
+.secondContainer {
+    display: flex;
+    border: 2px #1976d2;
+    border-style: solid none;
+}
+
+.thirdContainer {
+    display: flex;
+}
+
+.nameBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.secondChildContainer {
+    border: 2px #1976d2;
+    border-style: none solid;
+}
+
+.thirdChildContainer {
+    border-right: 2px solid #1976d2;
+}
